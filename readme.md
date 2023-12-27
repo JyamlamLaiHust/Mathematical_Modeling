@@ -2,6 +2,12 @@
 
 [数学建模导论：基于Python语言](https://www.bilibili.com/video/BV12W4y1C7Tr?p=1&vd_source=6057ec7da72d05e7cc0367e661afc192)
 
+[数学建模导论：基于Python语言 (github.com)](https://github.com/ShituoMa/mathematical_modeling_python)
+
+[Python小白的数学建模课](https://www.cnblogs.com/youcans/p/14824415.html)
+
+[美赛Latex模板](https://zhuanlan.zhihu.com/p/596188531)
+
 # 02 目录说明
 
 coding：视频中出现的代码
